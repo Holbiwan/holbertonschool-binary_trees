@@ -56,9 +56,9 @@ Files / Tasks | Description
 |0   |0-main.c 0-binary_tree_node.c -o 0-node                                                                  |
 |1   |1-main.c 1-binary_tree_insert_left.c 0-binary_tree_node.c -o 1-left	                               |                                           
 |2   |2-main.c 2-binary_tree_insert_right.c 0-binary_tree_node.c -o 2-right                                    |	     						                                                          
-|3   |3-main.c 3-binary_tree_delete.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o                     |
+|3   |3-main.c 3-binary_tree_delete.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 3-del               |
 |4   |4-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 4-leaf                                     |                             
-|5   |5-binary_tree_is_root.c 5-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o                    |
+|5   |5-main.c 0-binary_tree_node.c 2-binary_tree_insert_right.c -o 5-root                                     |
 |6   |6-main.c 6-binary_tree_preorder.c 0-binary_tree_node.c -o 6-pre				               |				                                                     
 |7   |7-main.c 7-binary_tree_inorder.c 0-binary_tree_node.c -o 7-in				               |				
 |8   |8-main.c 8-binary_tree_postorder.c 0-binary_tree_node.c -o 8-post                                        |          
