@@ -48,7 +48,7 @@ Files / Tasks | Description
 [`18-binary_tree_uncle.c`](./18-binary_tree_uncle.c) | Function that finds the uncle of a node
 
 
-### **Compilation** :fast_forward:
+# **Compilation** :fast_forward:
 
 
 |Task| Adding the main.c file concerned right after **gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c**
@@ -74,7 +74,7 @@ Files / Tasks | Description
 |18  |18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle                                        |        
 
                   
-## **Authors** :writing_hand:
+# **Authors** :writing_hand:
 
 * **Claudine SILLAM** - [Github](https://github.com/Coconuts-del)
 * **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
