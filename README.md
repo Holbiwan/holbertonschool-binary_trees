@@ -11,7 +11,7 @@ Binary trees are used for various purposes in computer science, including effici
 They can be traversed in different orders, such as in-order, pre-order, and post-order, depending on the specific task or algorithm. Binary trees are fundamental to many data structures and algorithms in computer science.is NULL. Each node of a Binary Tree contains the following parts:
 
 
-### **Requirements**
+### **Requirements** :warning:
 
 Command to clone our program
 ```
@@ -25,7 +25,7 @@ https://github.com/hs-hq/0x1C.c/blob/main/binary_tree_print.c
 
 ```
 
-### **Tasks**
+### **Tasks** :joystick:
 
 Files / Tasks | Description
 ----- | -----------
@@ -36,7 +36,7 @@ Files / Tasks | Description
 [`4-binary_tree_is_leaf.c`](./4-binary_tree_is_leaf.c) | Function that checks if a node is a leaf
 [`5-binary_tree_is_root.c`](./5-binary_tree_is_root.c) | Function that checks if a given node is a root
 [`6-binary_tree_preorder.c`](./6-binary_tree_preorder.c) | Function that goes through a binary tree using pre-order traversal
-[`7-binary_tree_inorder.c`](./7-binary_tree_inorder.c) | Function that goes through a binary tree using in-order traversal
+[`7-binary_tree_inorder.c`]./7-binary_tree_inorder.c) | Function that goes through a binary tree using in-order traversal
 [`8-binary_tree_postorder.c`](./8-binary_tree_postorder.c) | Function that goes through a binary tree using post-order traversal
 [`9-binary_tree_height.c`](./9-binary_tree_height.c) | Function that measures the height of a binary tree
 [`10-binary_tree_depth.c`](./10-binary_tree_depth.c) | Function that measures the depth of a node in a binary tree
@@ -50,7 +50,7 @@ Files / Tasks | Description
 [`18-binary_tree_uncle.c`](./18-binary_tree_uncle.c) | Function that finds the uncle of a node
 
 
-### **Compilation**
+### **Compilation** :fast_forward:
 
 
 |Task| Adding the main.c file concerned right after **gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c**
@@ -76,7 +76,7 @@ Files / Tasks | Description
 |18  |18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle                                        |        
 
                   
-## **Authors**
+## **Authors** :writing_hand:
 
 * **Claudine SILLAM** - [Github](https://github.com/Coconuts-del)
 * **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
