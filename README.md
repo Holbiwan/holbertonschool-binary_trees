@@ -21,8 +21,7 @@ They can be traversed in different orders, such as in-order, pre-order, and post
 
 ```https://github.com/hs-hq/0x1C.c/blob/main/binary_tree_print.c```
 
-
-			![binary_trees](https://i.pinimg.com/originals/c6/bb/08/c6bb08543696246a36c1d33438919afb.gif)
+![binary_trees](https://i.pinimg.com/originals/c6/bb/08/c6bb08543696246a36c1d33438919afb.gif)
 				
 # **Tasks** :joystick:
 
