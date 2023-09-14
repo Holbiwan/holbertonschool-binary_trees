@@ -1,6 +1,6 @@
 # **C - Binary trees**
 
-### **What is Binary Tree Data Structure?**:deciduous_tree:
+## **What is Binary Tree Data Structure?**:deciduous_tree:
 
 ![binary_trees](https://i.pinimg.com/originals/c6/bb/08/c6bb08543696246a36c1d33438919afb.gif)
 
@@ -13,7 +13,7 @@ Binary trees are used for various purposes in computer science, including effici
 They can be traversed in different orders, such as in-order, pre-order, and post-order, depending on the specific task or algorithm. Binary trees are fundamental to many data structures and algorithms in computer science.is NULL. Each node of a Binary Tree contains the following parts:
 
 
-### **Requirements** :warning:
+## **Requirements** :warning:
 
 * Command to clone our program
 
@@ -23,7 +23,7 @@ They can be traversed in different orders, such as in-order, pre-order, and post
 
 ```https://github.com/hs-hq/0x1C.c/blob/main/binary_tree_print.c```
 
-### **Tasks** :joystick:
+## **Tasks** :joystick:
 
 Files / Tasks | Description
 ----- | -----------
