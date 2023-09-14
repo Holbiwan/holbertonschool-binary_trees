@@ -1,6 +1,6 @@
 # **C - Binary trees**
 
-# **What is Binary Tree Data Structure?**:deciduous_tree:
+## **What is Binary Tree Data Structure?**:deciduous_tree:
 
 ![This is an image](https://zupimages.net/up/23/37/f65b.png)
 
@@ -11,7 +11,7 @@ Binary trees are used for various purposes in computer science, including effici
 They can be traversed in different orders, such as in-order, pre-order, and post-order, depending on the specific task or algorithm. Binary trees are fundamental to many data structures and algorithms in computer science.is NULL. Each node of a Binary Tree contains the following parts:
 
 
-# **Requirements** :warning:
+## **Requirements** :warning:
 
 * Command to clone our program
 
@@ -23,7 +23,7 @@ They can be traversed in different orders, such as in-order, pre-order, and post
 
 ![binary_trees](https://i.pinimg.com/originals/c6/bb/08/c6bb08543696246a36c1d33438919afb.gif)
 				
-# **Tasks** :joystick:
+## **Tasks** :joystick:
 
 Files / Tasks | Description
 ----- | -----------
@@ -48,7 +48,7 @@ Files / Tasks | Description
 [`18-binary_tree_uncle.c`](./18-binary_tree_uncle.c) | Function that finds the uncle of a node
 
 
-# **Compilation** :fast_forward:
+## **Compilation** :fast_forward:
 
 
 |Task| Adding the main.c file concerned right after **gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c**
@@ -74,7 +74,7 @@ Files / Tasks | Description
 |18  |18-main.c 18-binary_tree_uncle.c 0-binary_tree_node.c -o 18-uncle                                        |        
 
                   
-# **Authors** :writing_hand:
+## **Authors** :writing_hand:
 
 * **Claudine SILLAM** - [Github](https://github.com/Coconuts-del)
 * **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
