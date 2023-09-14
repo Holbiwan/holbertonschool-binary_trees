@@ -2,6 +2,8 @@
 
 ### **What is Binary Tree Data Structure?**:deciduous_tree:
 
+![binary_trees](https://i.pinimg.com/originals/c6/bb/08/c6bb08543696246a36c1d33438919afb.gif)
+
 ![This is an image](https://zupimages.net/up/23/37/f65b.png)
 
 A binary tree is a data structure composed of nodes, where each node has at most two children: a left child and a right child. The top node is called the root, and nodes in the tree have parent-child relationships.
@@ -13,11 +15,11 @@ They can be traversed in different orders, such as in-order, pre-order, and post
 
 ### **Requirements** :warning:
 
-Command to clone our program
+* Command to clone our program
 
 ```git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git```
 
-Link to print function
+* Link to print function
 
 ```https://github.com/hs-hq/0x1C.c/blob/main/binary_tree_print.c```
 
