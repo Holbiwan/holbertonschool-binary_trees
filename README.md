@@ -12,8 +12,9 @@ Binary trees are used for various purposes in computer science, including effici
 
 They can be traversed in different orders, such as in-order, pre-order, and post-order, depending on the specific task or algorithm. Binary trees are fundamental to many data structures and algorithms in computer science.is NULL. Each node of a Binary Tree contains the following parts:
 
-
+```
 ### **Requirements** :warning:
+```
 
 * Command to clone our program
 
