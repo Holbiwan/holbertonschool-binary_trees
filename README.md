@@ -74,6 +74,7 @@ Files / Tasks | Description
                   
 ## **Authors** :writing_hand:
 
+[![Contributors][contributors-shield]][contributors-url]
 * **Claudine SILLAM** - [Github](https://github.com/Coconuts-del)
 * **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
 * **Jean-Luc BILO** - [Github](https://github.com/Luckisback)
