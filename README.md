@@ -14,16 +14,12 @@ They can be traversed in different orders, such as in-order, pre-order, and post
 ### **Requirements** :warning:
 
 Command to clone our program
-```
-**git** clone https://github.com/Holbiwan/holbertonschool-binary_trees.git
 
-```
+```git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git```
 
 Link to print function
-```
-https://github.com/hs-hq/0x1C.c/blob/main/binary_tree_print.c
 
-```
+```https://github.com/hs-hq/0x1C.c/blob/main/binary_tree_print.c```
 
 ### **Tasks** :joystick:
 
