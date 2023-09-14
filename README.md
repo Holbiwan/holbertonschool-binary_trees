@@ -78,6 +78,6 @@ Files / Tasks | Description
                   
 ## **Authors**
 
-**Claudine SILLAM** - [Github](https://github.com/Coconuts-del)
-**Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
-**Jean-Luc BILO** - [Github](https://github.com/Luckisback)
+* **Claudine SILLAM** - [Github](https://github.com/Coconuts-del)
+* **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
+* **Jean-Luc BILO** - [Github](https://github.com/Luckisback)
