@@ -8,7 +8,9 @@ A binary tree is a data structure composed of nodes, where each node has at most
 
 Binary trees are used for various purposes in computer science, including efficient searching (in the case of Binary Search Trees), representing mathematical expressions, implementing priority queues, and more. 
 
-They can be traversed in different orders, such as in-order, pre-order, and post-order, depending on the specific task or algorithm. Binary trees are fundamental to many data structures and algorithms in computer science.is NULL. Each node of a Binary Tree contains the following parts:
+They can be traversed in different orders, such as in-order, pre-order, and post-order, depending on the specific task or algorithm. 
+
+Binary trees are fundamental to many data structures and algorithms in computer science is NULL.Each node of a Binary Tree contains the following parts:
 
 
 ## **Requirements** :warning:
